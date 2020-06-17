@@ -1,0 +1,10 @@
+combat similar to swords and sandals: turn based with 
+
+you create a new gladiator that starts at level 1
+
+a tournament style system where the goal is to be the sole surviving gladiator and hence become free
+
+each time you get to the next stage you get gold to buy spells/armour/weapons
+and levels to allocate skillpoints into a talent system
+
+monetized by: skins for gladiators/weapons & a payed tournament system
