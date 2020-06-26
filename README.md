@@ -8,7 +8,7 @@ GladiatorOnline is an Unreal Engine 4 mobile game currently in early stages of d
 2. Install the PlayFab addon via marketplace.
 3. The project should be ready to go.
 
-##Monetisation
+## Monetisation
 
 Skins are the main method of monetisation, people will be able to buy new skins for weapons, armour, etc.
 
@@ -16,7 +16,7 @@ There will be a mode that will require an entry fee, which will allow people to 
 
 Ads will also be present to those who have not bought anything in the shop.
 
-##Combat
+## Combat
 
 Turn based combat akin to Swords and Sandals. Perhaps with a system to roll for initiative. This needs to be more thought out, the game needs to be fun!
 
