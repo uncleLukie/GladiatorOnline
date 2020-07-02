@@ -4,9 +4,10 @@ GladiatorOnline is an Unreal Engine 4 mobile game currently in early stages of d
 
 ## Project Setup/Install
 
-1. Install Unreal Engine 4.24.3 via epic games launcher.
-2. Install the PlayFab addon via marketplace.
-3. The project should be ready to go.
+1. Compile Unreal Engine 4.24.3 from Source
+2. Include PlayFab SDK 4.24 and Swipe 4.24 in Engine/Plugin
+3. Install free Paragon Heroes from Marketplace.
+4. The project should be ready to go.
 
 ## Monetisation
 
@@ -18,7 +19,7 @@ Ads will also be present to those who have not bought anything in the shop.
 
 ## Combat
 
-Turn based combat akin to Swords and Sandals. Perhaps with a system to roll for initiative. This needs to be more thought out, the game needs to be fun!
+Turn based fighting game. Have combos and other interesting things, perhaps have certain iniative checks, i dunno.
 
 ## License
 
