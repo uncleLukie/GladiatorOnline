@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "{A698A9C8-4BFC-B5CC-602E-9D9488B0B519}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -47,6 +47,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "Swipe",
+			"Enabled": true
 		}
 	]
 }
