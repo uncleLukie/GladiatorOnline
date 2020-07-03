@@ -5,9 +5,9 @@ GladiatorOnline is an Unreal Engine 4 mobile game currently in early stages of d
 ## Project Setup/Install
 
 1. Compile Unreal Engine 4.24.3 from Source
-2. Include PlayFab SDK 4.24 and Swipe 4.24 in Engine/Plugin
-3. Install free Paragon Heroes from Marketplace.
-4. The project should be ready to go.
+2. Include PlayFab SDK 4.24 and Swipe 4.24 in /Engine/Plugin of the Source directory
+3. Install free Paragon Heroes from Marketplace
+4. The project should be ready to go
 
 ## Monetisation
 
